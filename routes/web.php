@@ -34,10 +34,10 @@ Route::get('/index', function () {
     return view('blog.index');
 })->name('index');
 
-Route::get('/page2', function () {
-    return view('blog.page2');
-})->name('page2');
+Route::get('/pagina2', function () {
+    return view('blog.pagina2');
+})->name('pagina2');
 
-Route::get('/page3', function () {
-    return view('blog.page3');
-})->name('page3');
+Route::get('/pagina3', function () {
+    return view('blog.pagina3');
+})->name('pagina3');

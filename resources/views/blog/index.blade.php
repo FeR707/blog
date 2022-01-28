@@ -1,12 +1,60 @@
 @extends('blog.template.layout')
-@section('titulo')
-  <h2><a href="#">Mi experiencia con lenguajes</a></h2>
-  Me llama mucho la atencion sobre la programacion aunque es complicado, 
-  trato de seguir aprendiendo para mejorar, el lenguaje que mas me a gustado hasta el momento 
-  y que mas se me a dado es C#. El lenguaje que mas me a costado dominar a sido Java, tambien e usado C++ es mas es 
-  el primer leguaje que utilize.
-@endsection
 
-@section('image')
-  <img src="images/C.png" alt="">
+@section('continue')
+   <!-- clients -->
+   <div id="testimonial" class="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="titlepage">
+                        <h2>Perfil</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clients_red">
+        <div class="container">
+            <div id="testimonial_slider" class="" data-ride="carousel">
+                <!-- Indicators -->
+
+                <!-- The slideshow -->
+                <div class="carousel-inner">
+                    <div class="carousel-item">
+
+                    </div>
+
+
+                        <div class="testomonial_section">
+                            <div class="full center">
+                            </div>
+                            <div class="full testimonial_cont ">
+                                <div class="row">
+                                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 pa_right">
+                                        <div class="testomonial_img">
+                                            <figure><img src="images/tes.jpg" alt="#"/></figure>
+                                            <i><img src="images/test_con.png" alt="#"/></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 pa_left">
+                                        <div class="cross_inner">
+                                            <h3>Fernando Manuel Galvan<br><strong class="ornage_color">Pequeña historia</strong></h3>
+                                            <p>Me llamo Fernando Manuel Galvan y naci en el Estado de Mexico, antes vivia en Ecatepec donde curse la primaria y primero de secundaria, pero nos mudamos a Zumpango por que mi papa pudo 
+                                              construir su propia casa, aqui termine la secundaria pero despues de eso empeze a trabajar por un tiempo, luego me llamo la atencion la carrera de Ingenieria en Software asi que decidi 
+                                              intentar con la carrera.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+  
+    <!-- end clients -->
 @endsection
