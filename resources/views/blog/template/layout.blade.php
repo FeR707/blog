@@ -146,9 +146,8 @@
                         <div class="address">
                           <h3>Social Link</h3>
                           <ul class="Menu_footer">
-                            <li class="active"> <a href="#">Twitter</a> </li>
+                            <li class="active"> <a href="https://twitter.com/ReR7Q">Twitter</a> </li>
                             <li><a href="https://www.facebook.com/fernando.manuel.92505956/">Facebook</a> </li>
-                            <li><a href="#">Instagram</a> </li>
                           </ul>
                         </div>
                       </div>
