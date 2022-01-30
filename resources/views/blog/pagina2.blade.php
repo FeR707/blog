@@ -1,7 +1,7 @@
 @extends('blog.template.layout')
 
 @section('inicio')
-    <span>Dienvenidos a</span>
+    <span></span>
       <h1>Un BlogMAS</h1>
       <p>
       Te hablare un poco sobre los conocimientos que tengo

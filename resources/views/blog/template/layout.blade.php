@@ -138,7 +138,7 @@
                       </div>
                       <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="address">
-                          <h3>Social Link</h3>
+                          <h3>Redes Sociales</h3>
                           <ul class="Menu_footer">
                             <li class="active"> <a href="https://twitter.com/ReR7Q">Twitter</a> </li>
                             <li><a href="https://www.facebook.com/fernando.manuel.92505956/">Facebook</a> </li>
