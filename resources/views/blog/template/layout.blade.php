@@ -136,16 +136,10 @@
               <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 ">
                   <div class="address">
-                    <h3>Address </h3>
+                    <h3>Un BlogMAS </h3>
                     <ul class="loca">
                       <li>
-                        <a href="#"></a>It is a long established fact 
-                        <br>that a reader will be  </li>
-                        <li>
-                          <a href="#"></a>(+71 1234567890) </li>
-                          <li>
-                            <a href="#"></a>demo@gmail.com</li>
-                          </ul>
+                        <a href="#"></a>Este blog tiene como proposito de solo informar o entretener </li>
                         </div>
                       </div>
                       <div class="col-lg-4 col-md-6 col-sm-6">
@@ -153,23 +147,12 @@
                           <h3>Social Link</h3>
                           <ul class="Menu_footer">
                             <li class="active"> <a href="#">Twitter</a> </li>
-                            <li><a href="#">Facebook</a> </li>
+                            <li><a href="https://www.facebook.com/fernando.manuel.92505956/">Facebook</a> </li>
                             <li><a href="#">Instagram</a> </li>
-                            <li><a href="#">Linkdin</a> </li>
                           </ul>
                         </div>
                       </div>
                      
-
-                      <div class="col-lg-4 col-md-6 col-sm-6 ">
-                        <div class="address">
-                          <h3>Newsletter</h3>
-                           <form class="news">
-                           <input class="newslatter" placeholder="Enter your email" type="text" name=" Enter your email">
-                            <button class="submit">Subscribe</button>
-                            </form>
-                        </div>
-                      </div>
                     </div>
                   </div>
 
@@ -178,7 +161,7 @@
               </div>
               <div class="copyright">
                 <div class="container">
-                  <p>Copyright © 2019 Design by <a href="">Free Html Templates </a></p>
+                  <p>Copyright © 2022</p>
                 </div>
               </div>
             </div>
