@@ -1,5 +1,13 @@
 @extends('blog.template.layout')
 
+@section('inicio')
+    <span>Dienvenidos a</span>
+      <h1>Un BlogMAS</h1>
+      <p>
+        Que objetivos tengo en la vida, y que quiero hacer mas adelante?
+      </p>
+@endsection
+
 @section('continue')
     <!-- pagina3 -->
 <div id="vegetable" class="vegetable">

@@ -87,13 +87,7 @@
                 <div class="row">
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="text-bg">
-                     <span>Dienvenidos a</span>
-                      <h1>Un BlogMAS</h1>
-                      <p>Quires saber un poco de mi? No? Entoces largate!!! <br><br>
-                      Les contare un poco de mi, sobre mis conocimientos mis habilidades y los objetivos que tengo en mi vida</p>
-                      <form class="Vegetable">
-
-              </form>
+                      @yield('inicio')
                     </div>
                   </div>
                   <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">

@@ -1,5 +1,11 @@
 @extends('blog.template.layout')
 
+@section('inicio')
+    <span>Dienvenidos a</span>
+      <h1>Un BlogMAS</h1>
+      <p>Quires saber un poco de mi? No? Entoces largate!!! <br><br>
+      Les contare un poco de mi, sobre mis conocimientos mis habilidades y los objetivos que tengo en mi vida</p>
+@endsection
 @section('continue')
    <!-- clients -->
    <div id="testimonial" class="clients">
